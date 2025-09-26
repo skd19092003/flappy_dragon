@@ -1,8 +1,8 @@
-### FLAPPY DRAGON
+# FLAPPY DRAGON
 
-# A Unity-based 2D game where you control a dragon navigating through obstacles.
+## A Unity-based 2D game where you control a dragon navigating through obstacles.
 
-## Features
+### Features
 - Use the spacebar/Mouse-click to make the dragon flap its wings and fly.
 - Avoid obstacles to score points.
 - Simple and intuitive controls.
